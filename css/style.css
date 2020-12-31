@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+#header-all{
+    background: #F0FFF0;
+    height: 576px;
+}
+.container{
+    margin-bottom: 80px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.green-button{
+    background: #21B573;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 30px;
+}
+.green-button:hover{
+    background: #1c774e;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 30px;
+}
+.header-element h6{
+    font-size: 16px;
+    font-weight: 300;
+    color:#FD511A;
+}
+.header-element h1{
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: 700;
+}
+.header-element span{
+    color: #21B573;
+}
+.header-element p{
+    color: #6C6B6B;
+    font-weight: 300;
+    line-height: 36px;
+}
+.banner-image img{
+    width: 576px;
+}
+/* Header ENd */
+/* Category Started */
+.card-deck{
+    margin-top: 42px;
+}
+.card-content{
+    padding: 50px 10px;
+    text-align: center;
+    border: none;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.card-content:hover{
+    padding: 50px 10px;
+    text-align: center;
+    border: none;
+    background: white;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 10px;
+}
+.top-image{
+    width: 66px;
+    margin: 0 auto;
+}
+/* Online Course Started */
+.header-text{
+    color: #413960;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-footer img{
+    height: 50%;
+    margin-right: 10px;
+}
+.course-card{
+    padding: 24px 10px;
+    text-align: center;
+    border: none;
+    background: #F8FFFB;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.carousel-indicators li{
+    color: tomato;
+}
+.carousel-indicators li:active{
+    color: rgb(71, 166, 255);
+}
+/* Course End */
+/* Testomonial Start */
+.testimonial-row{
+    margin-top: 70px;
+    margin-bottom: 127px;
+}
+.left-test-img img{
+   width: 120px; 
+}
+.testi-text{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    color: black;
+    text-align: left;
+}
+/* Testimonial End */
+/* Footer Start */
+#footer{
+    height: 400px;
+    background: #282531;
+    color: white;
+}
+#footer img{
+    width: 200px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.footer-list{
+    margin-top: 60px;
+}
+.footer-list h5{
+    font-weight: 700;
+}
+.footer-list p{
+    font-size: 16px;
+    font-weight: 300;
+}
+.footer-bottom{
+    padding: 50px 0px;
+}
